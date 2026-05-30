@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://developer.mozilla.org/zh-CN/)
 [![](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=ffffff)](https://www.swift.org)
 
-[![](https://img.shields.io/badge/-Variant-ESP32--S3-E7352C?logo=espressif&style=flat-square&logoColor=ffffff)](https://www.espressif.com/)
-[![](https://img.shields.io/badge/-Board-Arduino_Uno-blue?logo=arduino&style=flat-square&logoColor=ffffff)](https://www.arduino.cc/)
-[![](https://img.shields.io/badge/-MCU-STM32-03234B?logo=stmicroelectronics&style=flat-square&logoColor=ffffff)](https://www.st.com.cn/)
+[![](https://img.shields.io/badge/Variant-ESP32--S3-E7352C?logo=espressif&style=flat-square&logoColor=ffffff)](https://www.espressif.com/)
+[![](https://img.shields.io/badge/Board-Arduino_Uno-blue?logo=arduino&style=flat-square&logoColor=ffffff)](https://www.arduino.cc/)
+[![](https://img.shields.io/badge/MCU-STM32-03234B?logo=stmicroelectronics&style=flat-square&logoColor=ffffff)](https://www.st.com.cn/)
 
 
 <br>
