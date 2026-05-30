@@ -70,7 +70,8 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/539194428)
 [![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Itisxiao)
-[![](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=ffffff)](https://discord.com)
+[![League of Legends](https://img.shields.io/badge/League%20of%20Legends-C89B3C?style=flat-square&logo=leagueoflegends&logoColor=white)](https://www.leagueoflegends.com/)
+[![Role](https://img.shields.io/badge/Role-Support-00878F?style=flat-square&logo=leagueoflegends&logoColor=white)](https://www.leagueoflegends.com/)
 
 <br>
 
