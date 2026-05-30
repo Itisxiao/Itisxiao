@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/-macOS-f8f4ed?style=flat-square&logo=apple&logoColor=000000)](https://chen-jinxiao.github.io/)
 [![](https://img.shields.io/badge/-Android-34A853?style=flat-square&logo=android&logoColor=ffffff)](https://chen-jinxiao.github.io/)
-[![](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=ffffff)]([https://github.com/xiao1870040934](https://chen-jinxiao.github.io/))
+[![](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=ffffff)](https://chen-jinxiao.github.io/))
 
 [![](https://img.shields.io/badge/-GNU-A42E2B?style=flat-square&logo=GNU&logoColor=ffffff)](https://www.gnu.org)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)](https://www.kernel.org)
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <br>
 
 [![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/539194428)
-[![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/xiao1870040934)
+[![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Itisxiao)
 [![](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=ffffff)](https://discord.com)
 
 <br>
